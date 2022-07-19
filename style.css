@@ -1,0 +1,16 @@
+html {
+  background-image: url(stockProfile.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  font-size: larger;
+  box-sizing: border-box;
+}
+
+.update {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+  background-image: none;
+}
